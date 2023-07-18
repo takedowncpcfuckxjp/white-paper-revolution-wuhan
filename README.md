@@ -39,3 +39,5 @@
 其他地区快闪活动：
 
 成都：https://github.com/bitfat/white-paper-revolution
+
+南京：https://github.com/lightofhopeinchina/white-paper-revolution-nanjing
